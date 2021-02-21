@@ -1,0 +1,32 @@
+{
+  "name": "baur",
+  "version": "1.0.0",
+  "description": "nodejs curses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaurzhanKadis/node.js-Minin.git"
+  },
+  "keywords": [
+    "0108"
+  ],
+  "author": "Baurzhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaurzhanKadis/node.js-Minin/issues"
+  },
+  "homepage": "https://github.com/BaurzhanKadis/node.js-Minin#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
